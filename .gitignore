@@ -1,0 +1,12 @@
+.venv/
+.idea/
+__pycache__/
+.DS_Store
+.env
+.env.*
+!.env.example
+.dev.vars
+.wrangler/
+
+# 기사 원문 (저작권: 출처 링크에서 직접 받아 사용)
+news.txt
